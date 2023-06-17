@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
 
    
-    @State private var titleText = "TRACEY!"
+    @State private var titleText = ""
     var body: some View {
         
         VStack {
